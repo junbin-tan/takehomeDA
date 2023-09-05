@@ -40,10 +40,14 @@ API Endpoints
 Examples for Post:
 
 http://localhost:8080/tasks
+
+```java
 json body:
 {"title" : "task4",
     "description" : "task4 description",
     "completed" : "false"}
+```
+
 
 
 
