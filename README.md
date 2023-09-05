@@ -37,3 +37,18 @@ API Endpoints
 - PUT /tasks/{id} - Update a task by its ID.
 - DELETE /tasks/{id} - Delete a task by its ID.
 
+Examples for Post:
+
+http://localhost:8080/tasks
+
+json body:
+{
+    "title" : "task4",
+    "description" : "task4 description",
+    "completed" : "false"
+
+}
+
+
+
+
