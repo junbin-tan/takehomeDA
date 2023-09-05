@@ -21,8 +21,8 @@ spring.datasource.password=yourpassword
 
 Build and Run:
 ```java
-gradlew clean build
-gradlew bootRun
+./gradlew clean build
+./gradlew bootRun
 ```
 
 ## API Endpoints
